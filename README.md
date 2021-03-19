@@ -35,11 +35,11 @@ A view of the Micro3D set up can be observed below:
 
 ### Setup
 
-1. Print the 3D models (we recommend PA12 as a suitable printing material due to the following reasons: robust polyamide material, chemically resistant, easy to clean, safe to use in a medical environment). If you do not have access to a 3D printer, you can directly purchase the system ![here](https://www.shapeways.com/product/46XMPAFUX/micro-3d-kit?key=8d41ec2f12a772ee70367936245ed9c5).
+1. Print the 3D models (we recommend PA12 as a suitable printing material due to the following reasons: robust polyamide material, chemically resistant, easy to clean, safe to use in a medical environment). If you do not have access to a 3D printer, you can directly purchase the system [here](https://www.shapeways.com/product/46XMPAFUX/micro-3d-kit?key=8d41ec2f12a772ee70367936245ed9c5).
 2. Put on the cases in the corresponding smartphones.
 3. Couple the printed eyepieces to the camera of the smartphones using the thread of the cases.
 4. Insert the eyepieces of the smartphones in the matching entrance of the Micro3D.
 5. Secure the smartphones to the Micro3D by screwing the screws to the nuts using the provided space in the Micro3D.
 6. Connect the Micro3D to the ocular of the microscope.
 7. Secure the Micro3D to the oculars by screwing the printed screws to the appropriate holes.
-8. Turn on your smartphone cameras and start recording! (for syncing the video frames, you can apply post-processing after capture or use syncing applications to align times of both devices, e.g. ![Camarada](https://play.google.com/store/apps/details?id=com.aimfire.camarada)).
+8. Turn on your smartphone cameras and start recording! (for syncing the video frames, you can apply post-processing after capture or use syncing applications to align times of both devices, e.g. [Camarada](https://play.google.com/store/apps/details?id=com.aimfire.camarada)).
