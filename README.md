@@ -42,4 +42,4 @@ A view of the Micro3D set up can be observed below:
 5. Secure the smartphones to the Micro3D by screwing the screws to the nuts using the provided space in the Micro3D.
 6. Connect the Micro3D to the ocular of the microscope.
 7. Secure the Micro3D to the oculars by screwing the printed screws to the appropriate holes.
-8. Turn on your smartphone cameras and start recording! (for syncing the video frames, you can apply post-processing after capture or use syncing applications to align times of both devices).
+8. Turn on your smartphone cameras and start recording! (for syncing the video frames, you can apply post-processing after capture or use syncing applications to align times of both devices, e.g. ![Camarada](https://play.google.com/store/apps/details?id=com.aimfire.camarada)).
