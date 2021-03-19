@@ -1,3 +1,5 @@
+![license-badge](https://img.shields.io/github/license/borja-sc/micro3d-customsurgical?style=plastic)
+
 # Micro3D for Leica by Custom Surgical
 
 This repository contains 3D models of the parts of the Micro3D, a system to record stereoscopic videos on your microscope using 2 smartphones.
