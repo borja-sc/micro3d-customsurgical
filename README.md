@@ -35,7 +35,7 @@ A view of the Micro3D set up can be observed below:
 
 ### Setup
 
-1. Print the 3D models (we recommend PA12 as a suitable printing material due to the following reasons: robust polyamide material, chemically resistant, easy to clean, safe to use in a medical environment).
+1. Print the 3D models (we recommend PA12 as a suitable printing material due to the following reasons: robust polyamide material, chemically resistant, easy to clean, safe to use in a medical environment). If you do not have access to a 3D printer, you can directly purchase the system ![here](https://www.shapeways.com/product/46XMPAFUX/micro-3d-kit?key=8d41ec2f12a772ee70367936245ed9c5).
 2. Put on the cases in the corresponding smartphones.
 3. Couple the printed eyepieces to the camera of the smartphones using the thread of the cases.
 4. Insert the eyepieces of the smartphones in the matching entrance of the Micro3D.
